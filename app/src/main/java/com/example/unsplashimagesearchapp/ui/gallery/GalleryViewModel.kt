@@ -19,6 +19,6 @@ class GalleryViewModel @ViewModelInject constructor(private val repository: Unsp
         currentQuery.value=query
     }
     companion object{
-        private const val DEFAULT_QUERY="cats"
+        private const val DEFAULT_QUERY=",messi"
     }
 }
