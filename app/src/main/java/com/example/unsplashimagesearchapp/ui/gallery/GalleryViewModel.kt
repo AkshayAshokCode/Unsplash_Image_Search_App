@@ -23,6 +23,6 @@ class GalleryViewModel @ViewModelInject constructor(
 
     companion object {
         private const val CURRENT_QUERY = "current_query"
-        private const val DEFAULT_QUERY = "nature"
+        private const val DEFAULT_QUERY = "random"
     }
 }
